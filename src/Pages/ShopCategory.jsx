@@ -1,11 +1,11 @@
 import React from 'react'
 
-function ShopCaegory() {
+function ShopCategory() {
   return (
     <div>
-      
+      ello
     </div>
   )
 }
 
-export default ShopCaegory
+export default ShopCategory
