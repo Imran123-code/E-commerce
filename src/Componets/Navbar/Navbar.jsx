@@ -20,7 +20,6 @@ function Navbar() {
             <div className='nav-login-cart'>
                 <Link style={{textDecoration:'none'}} to={'/login'}><button>Login</button></Link>
                 <Link style={{textDecoration:'none'}} to={'/cart'}><img src={cart_icon} alt="" /></Link>
-
                 <div className='nav-cart-counter'>
                     0
                 </div>
