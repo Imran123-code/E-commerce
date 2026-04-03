@@ -12,8 +12,6 @@ function Shop() {
             <Offers/>
             <Newcollection/>
         </div>
-
-        
     )
 }
 
