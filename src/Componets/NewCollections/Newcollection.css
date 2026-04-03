@@ -1,4 +1,6 @@
-.popular {
+
+
+.newcollection {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -6,13 +8,13 @@
   padding: 50px 20px;
 }
 
-.popular h1 {
+.newcollection h1 {
   color: #171717;
   font-size: 50px;
   font-weight: 600;
 }
 
-.popular hr {
+.newcollection hr {
   width: 200px;
   height: 6px;
   border: none;
@@ -20,7 +22,7 @@
   background: #252525;
 }
 
-.popular_item {
+.collections{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
