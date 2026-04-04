@@ -5,6 +5,7 @@ import Popular from '../Componets/Popular/Popular';
 import Offers from '../Componets/Offers/Offers';
 import Newcollection from '../Componets/NewCollections/Newcollection';
 import Newsletter from '../Componets/Newsletter/Newsletter';
+// import Footer from '../Componets/Footer/Footer';
 function Shop() { 
     return (
         <div>
