@@ -9,8 +9,8 @@ const DescriptionBox = () => {
                 <div className="DescriptionBox-navbox fade">Review (122)</div>
             </div>
             <div className="DescriptionBox-Description">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque quae suscipit reprehenderit pariatur molestiae deleniti debitis velit quod magni possimus vitae numquam odit omnis, ut officia nobis tempora nulla voluptates?</p>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestias aut tempora saepe. Quasi eaque corrupti eius adipisci molestias! Saepe recusandae inventore eligendi quod assumenda nesciunt id doloribus accusamus harum repellendus!</p>
+                <p>This e-commerce website offers a wide range of fashion products for men, women, and kids. Users can browse different categories, view detailed product information, select sizes, and add items to the cart easily. The website provides a smooth and simple shopping experience for all users.</p>
+                <p>Customers can explore trending products, featured collections, and special discounts on various items. Each product page includes images, pricing, descriptions, and available sizes. The website is fully responsive and works properly on mobile, tablet, and desktop devices.</p>
             </div>
         </div>
     )
