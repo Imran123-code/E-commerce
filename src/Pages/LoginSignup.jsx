@@ -7,7 +7,7 @@ function LoginSignup() {
         <h1>Sign up</h1>
         <div className="LoginSignup-fields">
           <input type='name' placeholder='enter your name'></input>
-          <input type='Email' placeholder='Enter your email'></input>
+          <input type='email' placeholder='Enter your email'></input>
           <input type='password'></input>
         </div>
          <button>continue</button>
