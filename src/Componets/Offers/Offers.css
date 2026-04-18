@@ -47,3 +47,95 @@
     justify-content: center;
     padding-top: 50px;
 }
+
+
+
+/*  */
+
+
+/* Tablet */
+@media (max-width: 1024px) {
+  .offers {
+    width: 85%;
+    padding: 40px 60px;
+    gap: 20px;
+  }
+
+  .offers-left h1 {
+    font-size: 45px;
+  }
+
+  .offers-left p {
+    font-size: 18px;
+  }
+
+  .offers-left button {
+    width: 220px;
+    height: 60px;
+    font-size: 18px;
+  }
+
+  .offers-right img {
+    max-width: 300px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .offers {
+    flex-direction: column;
+    width: 90%;
+    padding: 30px 20px;
+    text-align: center;
+    margin-bottom: 80px;
+  }
+
+  .offers-left {
+    align-items: center;
+  }
+
+  .offers-left h1 {
+    font-size: 35px;
+  }
+
+  .offers-left p {
+    font-size: 16px;
+  }
+
+  .offers-left button {
+    width: 180px;
+    height: 50px;
+    font-size: 16px;
+  }
+
+  .offers-right {
+    padding-top: 20px;
+  }
+
+  .offers-right img {
+    max-width: 250px;
+  }
+}
+
+/* Small Mobile */
+@media (max-width: 480px) {
+  .offers-left h1 {
+    font-size: 28px;
+  }
+
+  .offers-left p {
+    font-size: 14px;
+  }
+
+  .offers-left button {
+    width: 150px;
+    height: 45px;
+    font-size: 14px;
+  }
+
+  .offers-right img {
+    max-width: 200px;
+  }
+}
+
+/*  */
