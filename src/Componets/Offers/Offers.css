@@ -1,12 +1,13 @@
 .offers {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   gap: 30px;
   margin: auto;
   height: 65vh;
   width: 65%;
-  padding: 0px 140px;
+  padding: 0px 60px;
   margin-bottom: 150px;
   background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);
 }
@@ -56,6 +57,7 @@
 /* Tablet */
 @media (max-width: 1024px) {
   .offers {
+    height: 45vh;
     width: 85%;
     padding: 40px 60px;
     gap: 20px;
@@ -83,9 +85,10 @@
 /* Mobile */
 @media (max-width: 768px) {
   .offers {
-    flex-direction: column;
+     display: grid;
+     grid-template-columns: 1fr 1fr;
     width: 90%;
-    padding: 30px 20px;
+    padding: 0px 20px;
     text-align: center;
     margin-bottom: 80px;
   }
