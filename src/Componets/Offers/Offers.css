@@ -1,9 +1,9 @@
 .offers {
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   justify-content: center;
   align-items: center;
-  gap: 30px;
+  gap: 30px;  
   margin: auto;
   height: 65vh;
   width: 65%;

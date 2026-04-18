@@ -34,52 +34,6 @@
 /*  */
 
 
-/* Tablet */
-@media (max-width: 1024px) {
-  .popular h1 {
-    font-size: 40px;
-  }
-
-  .popular_item {
-    gap: 20px;
-  }
-}
-
-/* Mobile */
-@media (max-width: 768px) {
-  .popular {
-    padding: 40px 15px;
-  }
-
-  .popular h1 {
-    font-size: 32px;
-  }
-
-  .popular hr {
-    width: 150px;
-    height: 4px;
-  }
-
-  .popular_item {
-    gap: 15px;
-    margin-top: 30px;
-  }
-}
-
-/* Small Mobile */
-@media (max-width: 480px) {
-  .popular h1 {
-    font-size: 26px;
-  }
-
-  .popular hr {
-    width: 120px;
-  }
-
-  .popular_item {
-    gap: 10px;
-  }
-}
 
 
 
